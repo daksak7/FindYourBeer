@@ -1,0 +1,36 @@
+.right-image img{
+	max-width: 100%;
+	height: auto;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#about-beer {
+  padding-bottom: 2.5rem;    /* Footer height */
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: left;
+}
+#footer .social-media { margin-bottom: 10px; }
+
+#footer  .social-media  a {
+  padding: 0 5px;
+  font-size: 70px;
+}
+
+
+#about-beer p{
+	margin-top: 20px;
+}
+#about-beer h4{
+	margin-top: 30px;
+}

@@ -2,12 +2,12 @@
 <link rel="stylesheet" href="css/styles.css">
 
   <body>
+  	<h1 style="color: green" align="center">İşleminiz başarılı!</h1>
 
 </body>
 <style>
   body {
   background-image: url("img/login_background.jpg"); 
-  opacity: 0.90; 
   background-size: 100%;}
 </style>
 

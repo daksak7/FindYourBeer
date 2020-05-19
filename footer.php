@@ -1,23 +1,5 @@
-
-
- <footer id="footer" style="position: relative;">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-md-6">
-                    <div>
-                        <p>Copyright &copy; 2020 <a href="http://github.com/daksak7">Doğancan Aksak</a></p>
-                    </div>
-                </div>
-                <div class="col-md-6">
-                    <span class="social-media-icon">
-                        <a href="http://linkedin.com/in/doğancan-aksak-4b7906104/" class="fa fa-linkedin"></a>
-                        &nbsp;&nbsp;
-                        <a href="http://daksak.github.io" class="fa fa-rss"></a>
-                    </span>
-                </div>
-            </div>
-        </div>
-    </footer>
-
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <script scr="script/main.js"></script>
 </html>
